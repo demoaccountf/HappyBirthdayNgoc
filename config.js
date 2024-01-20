@@ -15,6 +15,7 @@ var config = {
         "i hope you get everything you want",
         "Wishing bae a happy birthday",
         "From Banhb3o with love",
+        "See you soon!",
     ],
     /**
      * imgs 可以不填, 但是如果要填写的话必须遵循下面的格式
