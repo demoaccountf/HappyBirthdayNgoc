@@ -5,9 +5,9 @@ var config = {
     texts: [
         "Xin Chào Em Bé,",      //这里,每句话结尾的最后一个逗号必须是英文的哦!! 很重要哦!!
         "Hôm nay là sinh nhật của Em Bé nè,",  // 同上...
-        "今天是你的生日",
-        "这是我们在一起的",
-        "第三个生日了哦",
+        "Ở hơi xa mà còn trái múi giờ nữa nên hơi khó nhỉ?",
+        "Nhưng không sao",
+        "là một coder nửa mùa, chỉ có thể gửi cái này thôi",
         "去年的生日",
         "还记得在王婆串串吃的呢",
         "今年要吃好的喽哦",
