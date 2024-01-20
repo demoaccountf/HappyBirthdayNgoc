@@ -12,7 +12,7 @@ var config = {
         "Có toi ở đây rồi nên đừng một mình nữa nhé!",
         "Best wishes for you",
         "i hope you get everything you want",
-        "Wishing my sweetie a happy birthday",
+        "Wishing bae a happy birthday",
         "From Banhb3o with love",
     ],
     /**
