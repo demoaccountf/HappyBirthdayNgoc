@@ -7,7 +7,7 @@ var config = {
         "Hôm nay là sinh nhật của Em Bé nè,",  // 同上...
         "Ở hơi xa mà còn trái múi giờ nữa nên hơi khó nhỉ?",
         "Nhưng không sao",
-        "là một coder nửa mùa, thì được tới đây thôi ạ.",
+        "là một coder nửa mùa, thì toi đã làm cái này.",
         "Hi vọng lần tới có thể đón sinh nhật cùng nhau nhá",
         "Có toi ở đây rồi nên đừng một mình nữa nhé!",
         "Best wishes for you",
