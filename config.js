@@ -8,6 +8,7 @@ var config = {
         "Ở hơi xa mà còn trái múi giờ nữa nên hơi khó nhỉ?",
         "Nhưng không sao",
         "là một coder nửa mùa, thì toi đã làm cái này.",
+        "Nhưng sau nhớ gửi hình của bạn nhiều nhiều để có cái bỏ vào nha ",
         "Hi vọng lần tới có thể đón sinh nhật cùng nhau nhá",
         "Có toi ở đây rồi nên đừng một mình nữa nhé!",
         "Best wishes for you",
